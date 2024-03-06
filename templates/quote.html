@@ -5,8 +5,12 @@
 {% endblock %}
 
 {% block main %}
-    <form action="/quote" method="post">
-        <input name="symbol" autofocus autocomplete="off" type="text" placeholder="Enter stock’s symbol">
-        <button class="btn btn-primary" type="submit">Go</button>
-    </form>
+    <div class="container">
+        <div class="section">
+            <form action="/quote" method="post">
+                <input name="symbol" autofocus autocomplete="off" type="text" placeholder="Enter stock’s symbol">
+                <button class="btn btn-primary" type="submit">Go</button>
+            </form>
+        </div>
+    </div>
 {% endblock %}
