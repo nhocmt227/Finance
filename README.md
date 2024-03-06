@@ -10,7 +10,7 @@ This project is a web-based simulation a stock market. It allows users to view c
 - Interactive and intuitive user interface.
 
 ## Technology Stack
-- Frontend: HTML, CSS, JavaScript
+- Frontend: HTML, CSS, JavaScript, Bootstrap
 - Backend: Python, Flask
 - Database: SQLite3
 - API for Stock Data: Yahoo Finance
@@ -63,7 +63,7 @@ Contributions to improve the project are welcome. Please follow these steps:
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
-Your Name - [@Tuan Phong](https://github.com/nhocmt227)
+Your Name - [Chu Tuan Phong](https://github.com/nhocmt227)
 
-Project Link: [https://github.com/nhocmt227/Finance.git](https://github.com/nhocmt227/Finance.git)
+Project Link: [https://github.com/nhocmt227/Finance](https://github.com/nhocmt227/Finance.git)
 
