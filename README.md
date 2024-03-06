@@ -14,6 +14,7 @@ This project is a web-based simulation a stock market. It allows users to view c
 - Backend: Python, Flask
 - Database: SQLite3
 - API for Stock Data: Yahoo Finance
+- Additional API: Memegen.link
 
 ## Getting Started
 
@@ -23,12 +24,7 @@ This project is a web-based simulation a stock market. It allows users to view c
 ### Usage
 1. Clone the repository to your local machine `git clone https://github.com/yourusername/finance-web-project.git`.
 2. Navigate to the project directory `cd finance-web-project`.
-3. Install package.
-`pip install cs50`
-`pip install flask`
-`pip install flask_session`
-`pip install pytz`
-`pip install requests`
+3. Install necessary packages.
 4. Run flask `flask run`, it will create a host url. Clicking that URL.
 
 ### Registering a New Account
