@@ -63,7 +63,7 @@ Contributions to improve the project are welcome. Please follow these steps:
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
-Your Name - [@Tuan Phong]
+Your Name - [@Tuan Phong](https://github.com/nhocmt227)
 
 Project Link: [https://github.com/nhocmt227/Finance.git](https://github.com/nhocmt227/Finance.git)
 
