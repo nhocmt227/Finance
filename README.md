@@ -23,7 +23,7 @@ This project is a web-based simulation a stock market. It allows users to view c
 
 ### Usage
 1. Clone the repository to your local machine `git clone https://github.com/yourusername/finance-web-project.git`.
-2. Navigate to the project directory `cd finance-web-project`.
+2. Navigate to the project directory.
 3. Install necessary packages.
 4. Run flask `flask run`, it will create a host url. Clicking that URL.
 
